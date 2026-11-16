@@ -1,0 +1,14 @@
+[generaL]
+bars = 20
+framerate = 60
+bar_width = 2
+bar_spacing = 1
+
+[input]
+method = pipewire
+source = auto
+
+[color]
+background = default
+gradient = 0
+foreground = '#D5ECEA'
