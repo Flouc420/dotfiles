@@ -1,4 +1,4 @@
-# dotfiles 🐧
+# dotfiles
 
 My Arch Linux setup on a **ThinkPad X1 Yoga (1st gen)** — Core i5-6300U, 8 GB RAM, 256 GB SSD.
 
